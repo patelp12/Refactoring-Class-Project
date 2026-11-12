@@ -1,0 +1,12 @@
+{
+  "gradle.java.home": "C:\\Program Files\\zulu8.98.0.111-ca-fx-jdk8.0.512-win_x64",
+  "java.import.gradle.java.home": "C:\\Program Files\\zulu8.98.0.111-ca-fx-jdk8.0.512-win_x64",
+  "java.jdt.ls.java.home": "C:\\Program Files\\zulu8.98.0.111-ca-fx-jdk8.0.512-win_x64",
+  "java.configuration.runtimes": [
+    {
+      "name": "JavaSE-1.8",
+      "path": "C:\\Program Files\\zulu8.98.0.111-ca-fx-jdk8.0.512-win_x64",
+      "default": true
+    }
+  ]
+}
