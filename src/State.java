@@ -1,16 +1,14 @@
 package src;
 
+import java.io.BufferedReader;
+import java.io.File;
+import java.io.FileNotFoundException;
+import java.io.FileReader;
+import java.io.IOException;
+import java.io.PrintWriter;
 import java.util.Scanner;
 
 import src.player.Player;
-
-import java.io.BufferedReader;
-import java.io.FileReader;
-import java.io.File;
-import java.io.PrintWriter;
-
-import java.io.FileNotFoundException;
-import java.io.IOException;
 
 /**
  * The state of this specified dungeon game.
